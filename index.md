@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages test
+## there is a way
 
 You can use the [editor on GitHub](https://github.com/bee-bird/web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
